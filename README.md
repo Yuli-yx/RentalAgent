@@ -129,7 +129,7 @@ python -c "from app.config import settings; print(f'服务端口: {settings.AGEN
 | AGENT_PORT | 8191 | 服务端口 |
 | RENTAL_API_BASE | http://7.225.29.223:8080 | 房源API地址 |
 | MODEL_PORT | 8888 | 模型服务端口 |
-| DEFAULT_USER_ID | z00931220 | 默认用户工号 |
+| DEFAULT_USER_ID | xxxxxxxx | 默认用户工号 |
 | MAX_HISTORY_TURNS | 20 | 最大对话轮次 |
 | LOG_LEVEL | INFO | 日志级别 |
 | LOG_DIR | logs | 日志目录 |
