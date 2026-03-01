@@ -17,7 +17,7 @@ DEBUG_MODEL_IP: str = "7.225.29.223"  # 调试模式默认使用仿真服务IP
 DEFAULT_USER_ID: str = "z00931220"
 
 # 会话配置
-MAX_HISTORY_TURNS: int = 20
+MAX_HISTORY_TURNS: int = 8
 
 # 调试模式
 DEBUG_MODE: bool = False  # 通过命令行 --debug 设置
