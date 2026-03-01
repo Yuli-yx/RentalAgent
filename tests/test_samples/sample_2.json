@@ -1,0 +1,20 @@
+{
+  "case_id": "sample_002",
+  "case_type": "Multi",
+  "description": "多轮筛选房源",
+  "turns": [
+    {
+      "turn_id": 1,
+      "message": "查询海淀区的房源"
+    },
+    {
+      "turn_id": 2,
+      "message": "只要两居室的"
+    },
+    {
+      "turn_id": 3,
+      "message": "预算5000以内"
+    }
+  ],
+  "expected_houses": ["HF_4", "HF_6"]
+}

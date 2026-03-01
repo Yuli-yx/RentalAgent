@@ -1,0 +1,12 @@
+{
+  "case_id": "sample_001",
+  "case_type": "Single",
+  "description": "查询海淀区两居室房源",
+  "turns": [
+    {
+      "turn_id": 1,
+      "message": "查询海淀区的两居室房源"
+    }
+  ],
+  "expected_houses": ["HF_4", "HF_6", "HF_277"]
+}
